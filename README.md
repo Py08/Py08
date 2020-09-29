@@ -1,7 +1,7 @@
 <h1>Hello, World!!</h1>
 <p> I am Py08 - Amey Anand!!</p>
 
-<img src = "E:\Programing and coding\Python\Projects with Vismaya and others\Collaborations\logo.png"
+<!--<img src = "E:\Programing and coding\Python\Projects with Vismaya and others\Collaborations\logo.png"
 	 alt = "Logo">
 
 <p> I like to make projects with my friend <a href = "https://github.com/vismodo">Vismaya Atreya</a></p>
