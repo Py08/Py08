@@ -1,8 +1,10 @@
 <h1>Hello, World!!</h1>
 <p> I am Py08 - Amey Anand!!</p>
+
 <img src = "https://github.com/Py08/Py08/blob/master/logo.png"
-     alt = "Py08 Logo">
-<p> I like to make projects with my friend <a href = "https://github.com/vismodo">Vismaya Atreya</a></p>
+	 alt = "Py08 Logo">
+
+<p> I like to make projects with my friend <a href = "https://github.com/vismodo">Vismaya Atreya</a> and <a href = "https://github.com/V39Pygamer">V39Pygamer</a></p>
 <hr>
 <p> I am learning python and html and will learn more languages when I become good at them. </p>
 <p> You can Look at my Repositories <a href = "https://github.com/Py08?tab=repositories"> here </a> </p>
